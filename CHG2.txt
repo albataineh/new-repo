@@ -1,0 +1,143 @@
+CHGRTR2#sho license detail
+Index: 1        Feature: adventerprise                     Version: 1.0
+        License Type: Permanent
+        License State: Active, In Use
+        License Count: Non-Counted
+        License Priority: Medium
+        Store Index: 0
+        Store Name: Primary License Storage
+Index: 2        Feature: adventerprise                     Version: 1.0
+        License Type: EvalRightToUse
+        License State: Inactive
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 0
+        Store Name: Built-In License Storage
+Index: 3        Feature: advipservices                     Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 1
+        Store Name: Built-In License Storage
+Index: 4        Feature: avc                               Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 2
+        Store Name: Built-In License Storage
+Index: 5        Feature: fwnat_red                         Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 3
+        Store Name: Built-In License Storage
+Index: 6        Feature: ipsec                             Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 4
+        Store Name: Built-In License Storage
+Index: 7        Feature: lawful_intr                       Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 5
+        Store Name: Built-In License Storage
+Index: 8        Feature: lisp                              Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 6
+        Store Name: Built-In License Storage
+Index: 9        Feature: otv                               Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 7
+        Store Name: Built-In License Storage
+Index: 10       Feature: sw_redundancy                     Version: 1.0
+        License Type: RightToUse
+        License State: Active, In Use
+        License Count: Non-Counted
+        License Priority: Low
+        Store Index: 8
+        Store Name: Built-In License Storage
+Index: 11       Feature: throughput_10g                    Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 9
+        Store Name: Built-In License Storage
+Index: 12       Feature: throughput_20g                    Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 10
+        Store Name: Built-In License Storage
+Index: 13       Feature: throughput_36g                    Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 11
+        Store Name: Built-In License Storage
+Index: 14       Feature: vpls                              Version: 1.0
+        License Type: EvalRightToUse
+        License State: Active, Not in Use, EULA not accepted
+            Evaluation total period: 8  weeks 4  days
+            Evaluation period left: 8  weeks 4  days
+            Period used: 0  minute  0  second
+        License Count: Non-Counted
+        License Priority: None
+        Store Index: 12
+        Store Name: Built-In License Storage
+
+
+CHGRTR2#  sho license udi
+SlotID   PID                    SN                      UDI
+--------------------------------------------------------------------------------
+*6       ASR1002-X             JAE18430AZG     ASR1002-X:JAE18430AZG
+
+CHGRTR2#
